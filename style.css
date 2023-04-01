@@ -1,0 +1,14 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.row{
+    display: flex;
+
+}
+
+.info{
+    margin-left: 20px;
+}
+
